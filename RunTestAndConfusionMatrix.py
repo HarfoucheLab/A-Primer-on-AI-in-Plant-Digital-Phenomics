@@ -29,7 +29,7 @@ def main():
     load_model_path = os.path.join(load_model_dir, load_model_name)
 
     log('load model from ' + load_model_path)
-    test_dir = '/content/dataset/test/'
+    test_dir = '/content/dataset/cdsv5/test/'
     
     #load the model
     ppnet = torch.load(load_model_path)
