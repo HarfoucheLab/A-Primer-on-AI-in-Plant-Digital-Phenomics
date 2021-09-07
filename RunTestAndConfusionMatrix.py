@@ -162,7 +162,7 @@ def main():
     plot_confusion_matrix(cm, numclasses2string(test_dataset.classes),
      True, 'Confusion matrix', cmap=plt.cm.Greens)
     plt.savefig('confusion_matrix.eps', format='eps')
-	plt.savefig('confusion_matrix.png', format='png')
+    plt.savefig('confusion_matrix.png', format='png')
     plt.show()
 
 if __name__ == "__main__":
