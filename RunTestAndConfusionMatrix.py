@@ -158,11 +158,12 @@ def main():
         C = (pd.Series(numclasses)).map(d) #convert the list to a pandas series temporarily before mapping
         return list(C)
 
-    plt.figure(figsize=(5,5))
+    plt.figure(figsize=(10,10))
     plot_confusion_matrix(cm, numclasses2string(test_dataset.classes),
      True, 'Confusion matrix', cmap=plt.cm.Greens)
-    plt.savefig('confusion_matrix.eps', format='eps')
-    plt.savefig('confusion_matrix.png', format='png')
+    plt.autoscale()
+    plt.savefig('/content/confusion_matrix.eps', format='eps')
+    plt.savefig('/content/confusion_matrix.png', format='png', dpi=600, bbox_inches="tight")
     plt.show()
 
 if __name__ == "__main__":

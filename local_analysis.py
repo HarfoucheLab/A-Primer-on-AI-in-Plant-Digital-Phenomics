@@ -264,7 +264,7 @@ for i in range(1,11):
     log('--------------------------------------------------------------')
 
 ##### PROTOTYPES FROM TOP-k CLASSES
-k = 50
+k = 5
 log('Prototypes from top-%d classes:' % k)
 topk_logits, topk_classes = torch.topk(logits[idx], k=k)
 for i,c in enumerate(topk_classes.detach().cpu().numpy()):
