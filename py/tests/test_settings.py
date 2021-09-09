@@ -1,6 +1,7 @@
 import sys
 import os
-sys.path.append(os.path.abspath(".."))
+import sys,os
+sys.path.append(os.getcwd())
 from settings import *
 def test_settings_created():
     assert 'base_architecture' in globals()
