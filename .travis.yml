@@ -1,0 +1,12 @@
+language: python
+python:
+  - "3.8"
+# move to the testing directory
+before_install: 
+  - cd './py/'
+# command to install dependencies
+install:
+  - sudo mkdir /content
+  - sudo chmod 777 /content
+# command to run tests
+script: travis_wait 10 pytest
