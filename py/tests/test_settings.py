@@ -1,5 +1,4 @@
-
-from ..settings import *
+from ..settings import base_architecture
 def test_settings_created():
     assert 'base_architecture' in locals()
     assert 'img_size' in locals()
