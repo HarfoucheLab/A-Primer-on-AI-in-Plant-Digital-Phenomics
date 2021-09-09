@@ -1,5 +1,7 @@
 import os
-from ..helpers import *
+import sys
+sys.path.append(os.path.abspath(".."))
+from helpers import *
 
 def test_makedir():
 	makedir('/content/unittest')
