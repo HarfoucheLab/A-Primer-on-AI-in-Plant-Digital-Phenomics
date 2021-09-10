@@ -1,6 +1,6 @@
 # A Primer on Artificial Intelligence in Plant Digital Phenomics: Embarking on the Data to Insights Journey [![Build Status](https://app.travis-ci.com/HarfoucheLab/A-Primer-on-AI-in-Plant-Digital-Phenomics.svg?branch=main)](https://app.travis-ci.com/HarfoucheLab/A-Primer-on-AI-in-Plant-Digital-Phenomics)
 ----
-![split](http://faridnakhle.com/pv/githubimages/RSGlogo.png?t=1)
+![split](https://faridnakhle.com/unitus/DigitalPhenomics/githubimages/logo.png?t=1)
 
 This repository is a supplement to the paper, **A Primer on Artificial Intelligence in Plant Digital Phenomics: Embarking on the Data to Insights Journey** (submitted to *Trends in Plant Science, 2021*) by by Antoine L. Harfouche, Farid Nakhle, Orlando G. Sardella, Antoine H. Harfouche, Eli Dart, and Daniel Jacobson. It aims to train, for the first time, an interpretable by design model to identify and classify cassava plant diseases, and to explain its predictions.
 

@@ -10,4 +10,4 @@ install:
   - sudo chmod 777 /content
   - pip install torch==1.8.1+cu111 torchvision==0.9.1+cu111 torchaudio==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
 # command to run tests
-script: travis_wait 20 pytest --ignore train_and_test.py
+script: travis_wait 120 pytest --ignore train_and_test.py
