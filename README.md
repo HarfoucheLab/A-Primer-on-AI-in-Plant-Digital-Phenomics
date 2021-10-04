@@ -17,13 +17,15 @@ python -m pytest
 
 NB: pytest is required to run the tests. You might install it using pip (pip install pytest).
 
-Finally, we have prepared a set of self-test quizzes in form of multiple-choice questions (MCQs), practices, and exercises to provide researchers with opportunities to augment their learning by testing the knowledge they have acquired and applying the concepts explained. Find the corresponding links below:
+Finally, we have prepared a set of self-test quizzes in form of multiple-choice questions (MCQs), practices, and exercises to provide researchers with opportunities to augment their learning by testing the knowledge they have acquired and applying the concepts explained.
 
-**Access the MCQs [here](https://forms.gle/jVZHLpViL2ruYyxCA "here").**
+Find the corresponding links below:
 
-Access the first exercise (for novices) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HarfoucheLab/A-Primer-on-AI-in-Plant-Digital-Phenomics/blob/main/Exercise_Novice.ipynb)
+**Access the MCQs [here](https://forms.gle/jVZHLpViL2ruYyxCA "here")**
 
-Access the second exercise (for experienced users) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HarfoucheLab/A-Primer-on-AI-in-Plant-Digital-Phenomics/blob/main/Exercise_Advanced.ipynb)
+**Access the first exercise (for novices)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HarfoucheLab/A-Primer-on-AI-in-Plant-Digital-Phenomics/blob/main/Exercise_Novice.ipynb)
+
+**Access the second exercise (for experienced users)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HarfoucheLab/A-Primer-on-AI-in-Plant-Digital-Phenomics/blob/main/Exercise_Advanced.ipynb)
 
 ## Citation
 ----
