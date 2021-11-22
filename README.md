@@ -6,7 +6,7 @@ This repository is a supplement to the paper, **A Primer on Artificial Intellige
 
 Read the accompanying paper [here](https://doi.org) (a link will be available once the paper is published).
 
-The repository contains the python files for our implementation of the 'this looks like that' interpretable by design explainable artificial intelligence (X-AI) algorithm. In addition, this repository contains a tutorial hosted in an interactive notebook that can run on Google Colab or any other platform supporting Jupyter notebooks, aiming to help you use our implementation of the algorithm to train it to identify and classify cassava plant diseases, and to explain its predictions.
+The repository contains the python files for our implementation of the 'this looks like that' interpretable by design explainable artificial intelligence (X-AI) algorithm. In addition, this repository contains a tutorial hosted in an interactive computational notebook that can run on Google Colab or any other platform supporting Jupyter notebooks, aiming to help you use our implementation of the algorithm to train it to identify and classify cassava plant diseases, and to explain its predictions.
 By the end of the tutorial, you should be able to apply the code and instructions to other datasets relevant to your research or project.
 
 Access the tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HarfoucheLab/A-Primer-on-AI-in-Plant-Digital-Phenomics/blob/main/Tutorial.ipynb)
