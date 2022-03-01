@@ -19,7 +19,7 @@ python -m pytest
 
 NB: pytest is required to run the tests. You might install it using pip (pip install pytest).
 
-Finally, we have prepared a set of self-test quizzes in form of multiple-choice questions (MCQs), practices, and exercises to provide you with opportunities to augment your learning by testing the knowledge you have acquired and applying the concepts explained.
+Finally, we have prepared a set of self-test quizzes in form of multiple-choice questions (MCQs), and practice exercises to provide you with opportunities to augment your learning by testing the knowledge you have acquired and applying the concepts explained.
 
 Find the corresponding links below:
 
